@@ -28,8 +28,7 @@ public class Main
 
 
         System.out.println("Hell yea!");
-        System.out.println("InshaaAllah");
-
+      
     }
 
     private static double calculateNetSalary(double timeloen, double timer, double skat) {
