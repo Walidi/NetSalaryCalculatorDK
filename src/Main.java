@@ -26,6 +26,9 @@ public class Main
 
         System.out.println("Din løn efter skat er: " + calculateNetSalary(timeloen, timer, skat1) +" kr");
 
+
+        System.out.println("Hell yea!");
+
     }
 
     private static double calculateNetSalary(double timeloen, double timer, double skat) {
