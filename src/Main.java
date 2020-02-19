@@ -28,6 +28,7 @@ public class Main
 
 
         System.out.println("Hell yea!");
+        System.out.println("InshaaAllah");
 
     }
 
